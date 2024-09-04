@@ -1,0 +1,9 @@
+{
+    "name": "guestuser/composer-lib-sample",
+    "autoload": {
+        "psr-4": {
+            "Guestuser\\ComposerLibSample\\": "src/"
+        }
+    },
+    "require": {}
+}
