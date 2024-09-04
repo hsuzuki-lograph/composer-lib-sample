@@ -1,0 +1,9 @@
+{
+    "name": "guestuser/lib1",
+    "autoload": {
+        "psr-4": {
+            "Guestuser\\Lib1\\": "src/"
+        }
+    },
+    "require": {}
+}
